@@ -13,7 +13,6 @@ pac proxy
 `https://mrdsoft.github.io/PAC/Canada.pac`  
 `https://mrdsoft.github.io/PAC/France.pac`  
 `https://mrdsoft.github.io/PAC/Germany.pac`  
-`https://mrdsoft.github.io/PAC/India.pac`  
 `https://mrdsoft.github.io/PAC/Netherland.pac`  
 `https://mrdsoft.github.io/PAC/Singapore.pac`  
 `https://mrdsoft.github.io/PAC/UK.pac`  
